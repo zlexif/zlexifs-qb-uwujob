@@ -35,10 +35,10 @@ end)
 
 CreateThread(function()
     local food = { "blueberry", "rice", "onion", "orange", "bmochi", "pmochi", "omochi", "gmochi", "bento", "riceball", "miso", "cake", "nekocookie", "nekodonut"}
-    for k,v in pairs(food) do QBCore.Functions.CreateUseableItem(v, function(source, item) TriggerClientEvent('zlexif:client:Eat', source, item.name) end) end
+    for k,v in pairs(food) do QBCore.Functions.CreateUseableItem(v, function(source, item) TriggerClientEvent('zlexif-uwu:client:Eat', source, item.name) end) end
     
     local drinks = { "nekolatte", "sake", "pbobatea", "gbobatea", "obobatea", "bbobatea", "bobatea" }
-    for k,v in pairs(drinks) do QBCore.Functions.CreateUseableItem(v, function(source, item) TriggerClientEvent('zlexif:client:Drink', source, item.name) end) end
+    for k,v in pairs(drinks) do QBCore.Functions.CreateUseableItem(v, function(source, item) TriggerClientEvent('zlexif-uwu:client:Drink', source, item.name) end) end
 end)
 
 
