@@ -1,6 +1,6 @@
 ## Zlexif's UwU Job.
-join **[Discord] https://discord.gg/XAV4AfgQaZ**
-- ALl credits to ranjit for letting me alter his code! Join his discord https://discord.gg/DwyEkkgWY3
+## join **[Discord] https://discord.gg/XAV4AfgQaZ** as ranjit isnt responsible for this script.
+- all credits to ranjit for letting me alter his code! Join his discord https://discord.gg/DwyEkkgWY3
 # Required
 - qb-core (https://github.com/qbcore-framework/qb-core)
 - qb-management (https://github.com/qbcore-framework/qb-management)
