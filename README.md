@@ -2,14 +2,14 @@
 ## join **[Discord] https://discord.gg/XAV4AfgQaZ** as ranjit isnt responsible for this script.
 - all credits to ranjit for letting me alter his code! Join his discord https://discord.gg/DwyEkkgWY3
 # Required
-- qb-core (https://github.com/qbcore-framework/qb-core)
-- qb-management (https://github.com/qbcore-framework/qb-management)
-- qb-target (https://github.com/qbcore-framework/qb-target)
-- gabz uwu cafe mlo (https://fivem.gabzv.com/package/4724734)
-- progressbar (https://github.com/qbcore-framework/progressbar)
-- qb-input (https://github.com/qbcore-framework/progressbar)
-- qb-menu (https://github.com/qbcore-framework/qb-menu)
-- qb-smallresources (https://github.com/qbcore-framework/qb-smallresources)
+- [qb-core] (https://github.com/qbcore-framework/qb-core)
+- [qb-management] (https://github.com/qbcore-framework/qb-management)
+- [qb-target] (https://github.com/qbcore-framework/qb-target)
+- [gabz uwu cafe mlo] (https://fivem.gabzv.com/package/4724734)
+- [progressbar] (https://github.com/qbcore-framework/progressbar)
+- [qb-input] (https://github.com/qbcore-framework/progressbar)
+- [qb-menu] (https://github.com/qbcore-framework/qb-menu)
+- [qb-smallresources] (https://github.com/qbcore-framework/qb-smallresources)
 
 # **qb-core/shared/items.lua**
 ```
