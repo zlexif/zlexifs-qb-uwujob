@@ -94,8 +94,8 @@ qb-smallresources (https://github.com/qbcore-framework/qb-smallresources)
 		offDutyPay = false, -- If you want employees to be paid even when theyre not on duty/off duty ( THIS IS IN GAME NOT WHEN YOUR OFFLINE COMPLETELY)
 		grades = {
             ['0'] = {
-                name = 'Runner', - NAME OF THE GRADE
-                payment = 650 -- PAYMENT FOR THIS GRADE ( EVERY 30 MINS OR ACCORDING TO YOUR loops.lua)  -- Configure According To Your Economy
+                name = 'Runner', -- NAME OF THE GRADE
+                payment = 650, -- PAYMENT FOR THIS GRADE ( EVERY 30 MINS OR ACCORDING TO YOUR loops.lua)  -- Configure According To Your Economy
             },
             ['1'] = {
                 name = 'Cook',
